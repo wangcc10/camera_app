@@ -1,3 +1,0 @@
-include ':vector'
-include ':app'
-rootProject.name = "carmeaapp"
